@@ -1,14 +1,20 @@
 <h1 align="center">Hi there, I'm Bakr 👋</h1>
-<h3 align="center">IT Student & Web Developer</h3>
 
 <p align="center">
-  Passionate about building things for the web and connecting with fellow developers.
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=440&lines=IT+Student+%26+Web+Developer;JavaScript+%7C+React+%7C+Laravel;Building+Developer+Communities" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://x.com/bak1r__2">
-    <img src="https://img.shields.io/badge/X-@bak1r__2-black?style=flat&logo=x" alt="X (Twitter)" />
+  <a href="https://www.linkedin.com/in/bakr1it">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://x.com/bak1r__2">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bakr1-it&label=Profile%20Views&color=2F80ED&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -44,17 +50,28 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bakr1-it&show_icons=true&theme=default&count_private=true" alt="Bakr's GitHub stats" height="165"/>
 </p>
 
+---
+
 ### 📌 Featured Projects
 
 > _Coming soon — actively working on projects to showcase here._
+
+<!--
+Once you push a project, replace this section with pinned repo cards, e.g.:
+
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=bakr1-it&repo=project-name)](https://github.com/bakr1-it/project-name)
+-->
 
 ---
 
 ### 📫 Let's Connect
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/bakr1it">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://x.com/bak1r__2">
-    <img src="https://img.shields.io/badge/X-@bak1r__2-black?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
