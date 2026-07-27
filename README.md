@@ -42,9 +42,8 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=bakr1-it&show_icons=true&theme=default&count_private=true" alt="Bakr's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bakr1-it&theme=default" alt="Bakr's GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=bakr1-it&theme=default" alt="Bakr's GitHub streak" height="165"/>
 </p>
-
 ---
 
 ### 📌 Featured Projects
